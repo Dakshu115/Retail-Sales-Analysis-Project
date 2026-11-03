@@ -1,15 +1,5 @@
 # 🛍️ Retail Sales Analysis Project
 
-## 📘 Academic Information
-
-**Course:** Industrial Internet of Things (IIoT)  
-**Semester:** 3rd Semester  
-**University:** Invertis University, Bareilly  
-**Student:** ARPIT GUPTA 
-**Role:** Exploratory Data Analysis (EDA) & Documentation
-
----
-
 ## 📊 Project Overview
 
 The **Retail Sales Analysis Project** is a comprehensive data-driven approach to understand the performance of a retail business through its transactional data. In today’s competitive retail environment, it is essential to monitor sales trends, customer satisfaction, product preferences, and regional performance.
